@@ -1,0 +1,58 @@
+[
+  {
+    "Duration": 60,
+    "Date": "'2020/12/01'",
+    "Pulse": 110,
+    "Maxpulse": 130,
+    "Calories": 409.1
+  },
+  {
+    "Duration": 60,
+    "Date": "'2020/12/02'",
+    "Pulse": 117,
+    "Maxpulse": 145,
+    "Calories": 479
+  },
+  {
+    "Duration": 60,
+    "Date": "'2020/12/03'",
+    "Pulse": 103,
+    "Maxpulse": 135,
+    "Calories": 340
+  },
+  {
+    "Duration": 45,
+    "Date": "NaN",
+    "Pulse": 100,
+    "Maxpulse": 119,
+    "Calories": 282
+  },
+  {
+    "Duration": 60,
+    "Date": 20201226,
+    "Pulse": 100,
+    "Maxpulse": 120,
+    "Calories": 250
+  },
+  {
+    "Duration": 450,
+    "Date": "'2020/12/08'",
+    "Pulse": 104,
+    "Maxpulse": 134,
+    "Calories": 253.3
+  },
+  {
+    "Duration": 60,
+    "Date": "'2020/12/12'",
+    "Pulse": 100,
+    "Maxpulse": 120,
+    "Calories": 250.7
+  },
+  {
+    "Duration": 60,
+    "Date": "'2020/12/12'",
+    "Pulse": 100,
+    "Maxpulse": 120,
+    "Calories": 250.7
+  }
+]
